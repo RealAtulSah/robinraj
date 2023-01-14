@@ -1,0 +1,104 @@
+body {
+    font-family: 'Courgette', cursive;
+    color: #2B3467;
+}
+
+h1 {
+    margin-top: 5rem;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+
+p {
+    margin-bottom: 3rem;
+}
+
+h4 {
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 7rem;
+}
+
+a{
+    color: #2B3467;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FF74B1;
+}
+
+/* header section  */
+
+#header {
+    padding: 10% 15%;
+    text-align: center;
+    background-color: #BFEAF5;
+    
+}
+
+.profile-photo {
+    text-align: right;
+}
+
+.about {
+    font-size: 1.5rem;
+}
+
+/* education */
+
+#education {
+    background-color: #C0DEFF;
+    padding: 10% 5%;
+    font-family: 'Lato', sans-serif;
+}
+
+.isc {
+margin-bottom: auto;
+}
+
+.matric{
+margin-bottom: 0%;
+}
+
+/* work  */
+
+#work {
+    background-color: #BAD7E9;
+    padding: 5%;
+    font-family: 'Lato', sans-serif;
+}
+
+/* persoanl-details  */
+
+#pd {
+    background-color: #CBEDD5;
+    padding: 5%;
+    font-family: 'Lato', sans-serif;
+}
+
+/* declaration */
+
+#declaration {
+    background-color: #C0DEFF;
+    padding: 5% 10% 5%;
+    font-family: 'Lato', sans-serif;
+}
+
+/* contact  */
+
+#contact {
+    padding: 2rem 5rem .5rem;
+    background-color: #263159;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.copy{
+    text-align: center;
+}
+
+.con-link {
+    color: #fff;
+}
